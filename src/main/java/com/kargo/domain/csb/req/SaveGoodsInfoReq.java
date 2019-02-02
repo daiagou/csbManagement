@@ -27,4 +27,15 @@ public class SaveGoodsInfoReq {
     @NotBlank
     private String picUrl;
 
+
+    private String detailPicUrl1;
+
+    private String detailPicUrl2;
+
+    private String detailPicUrl3;
+
+    private String detailPicUrl4;
+
+    private String detailPicUrl5;
+
 }
